@@ -86,3 +86,5 @@
 2.時間到，系統對使用者發出提醒
 3.使用者確實接收到訊息並關閉提醒
 例外狀況：使用者將系統發出的提醒略過
+
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/asd.png "git圖示")

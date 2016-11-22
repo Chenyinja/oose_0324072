@@ -87,4 +87,13 @@
 3.使用者確實接收到訊息並關閉提醒
 例外狀況：使用者將系統發出的提醒略過
 
-![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/asd.png "git圖示")
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/11.png "git圖示")
+
+### 活動圖：
+
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/8.png "git圖示")
+
+### 強韌圖：
+
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/9.jpg "git圖示")
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/10.jpg "git圖示")

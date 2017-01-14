@@ -14,21 +14,35 @@
   
 ### 使用者介面圖：
 1.進入主畫面
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a1.jpg "git圖示")
-2.查看醫療箱管理
-  點選要放入位置中的黑色方塊
+
+2.查看醫療箱管理點選要放入位置中的黑色方塊
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a2.jpg "git圖示")
+
 3.選擇藥品的有效日期
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a3.jpg "git圖示")
+
 4.點選拍攝
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a4.jpg "git圖示")
+
 5.將手機鏡頭對準藥品說明並按下快門
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a5.jpg "git圖示")
+
 6.若文字辨識無誤即可按確認進行下一步驟
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a6.jpg "git圖示")
+
 7.點選鬧鐘圖案設定提醒定時換藥
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a7.jpg "git圖示")
+
 8.選擇要設定之藥物並輸入期限與提醒時間
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a8.jpg "git圖示")
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a9.jpg "git圖示")
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a10.jpg "git圖示")

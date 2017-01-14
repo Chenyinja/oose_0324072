@@ -12,8 +12,26 @@
 ## 摘要
 　　「Medical Go」可以即時看到醫療箱的藥品是否過期、出門在外看到不足的，需要再買來補充。讓處理居家的臨時小問題時能夠更方便而有效，也透過演示步驟，來教導大家怎麼正確地處理傷口，並防止不必要的後遺症，並結合了搜尋附近診所評價系統，以及推薦和分類該去哪家急診掛號，讓使用者對於醫療更有不一樣的便捷。
   
-
-
+### 使用者介面圖：
+1.進入主畫面
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a1.png "git圖示")
+2.查看醫療箱管理
+  點選要放入位置中的黑色方塊
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a2.png "git圖示")
+3.選擇藥品的有效日期
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a3.png "git圖示")
+4.點選拍攝
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a4.png "git圖示")
+5.將手機鏡頭對準藥品說明並按下快門
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a5.png "git圖示")
+6.若文字辨識無誤即可按確認進行下一步驟
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a6.png "git圖示")
+7.點選鬧鐘圖案設定提醒定時換藥
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a7.png "git圖示")
+8.選擇要設定之藥物並輸入期限與提醒時間
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a8.png "git圖示")
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a9.png "git圖示")
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/a10.png "git圖示")
 
 ### Use case條件描述：
 
@@ -153,3 +171,6 @@
 
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/表格圖.jpg "git圖示")
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/強韌圖.jpg "git圖示")
+
+## 類別圖：
+![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/類別圖.jpg "git圖示")

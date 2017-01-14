@@ -188,7 +188,10 @@
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/表格圖.jpg "git圖示")
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/強韌圖.jpg "git圖示")
 
-## 強韌圖：
+## 循序圖：
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/333.png "git圖示")
+
 ## 類別圖：
+
 ![GITHUB](https://github.com/tcpyoung/oose_0324072/blob/master/類別圖.jpg "git圖示")
